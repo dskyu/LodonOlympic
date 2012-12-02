@@ -1,0 +1,295 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* exploreolympicAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {804, 548}}";
+			sepNavSelRange = "{462, 0}";
+			sepNavVisRange = "{0, 462}";
+		};
+	};
+	1D3623250D0F684500981E51 /* exploreolympicAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1120}}";
+			sepNavSelRange = "{460, 0}";
+			sepNavVisRange = "{305, 1185}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* exploreolympic */ = {
+		activeExec = 0;
+		executables = (
+			36C16C49152249C400E3C1A7 /* exploreolympic */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 36C16C49152249C400E3C1A7 /* exploreolympic */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* exploreolympic */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* exploreolympic */,
+		);
+		breakpoints = (
+			36C16CAC15225BD000E3C1A7 /* MainViewController.m:25 */,
+			36C16CDA15225DD700E3C1A7 /* MainViewController.m:30 */,
+		);
+		codeSenseManager = 36C16C54152249E400E3C1A7 /* Code sense */;
+		executables = (
+			36C16C49152249C400E3C1A7 /* exploreolympic */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					203,
+					20,
+					103,
+					103,
+					31,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					641,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354568644;
+			PBXWorkspaceStateSaveDate = 354568644;
+		};
+		perUserProjectItems = {
+			36C16C9315225B2500E3C1A7 /* PBXBookmark */ = 36C16C9315225B2500E3C1A7 /* PBXBookmark */;
+			36C16C9415225B2500E3C1A7 /* PBXTextBookmark */ = 36C16C9415225B2500E3C1A7 /* PBXTextBookmark */;
+			36C16C9615225B2500E3C1A7 /* PlistBookmark */ = 36C16C9615225B2500E3C1A7 /* PlistBookmark */;
+			36C16C9715225B2500E3C1A7 /* PBXTextBookmark */ = 36C16C9715225B2500E3C1A7 /* PBXTextBookmark */;
+			36C16C9815225B2500E3C1A7 /* PBXTextBookmark */ = 36C16C9815225B2500E3C1A7 /* PBXTextBookmark */;
+			36C16CB515225C6500E3C1A7 /* PBXTextBookmark */ = 36C16CB515225C6500E3C1A7 /* PBXTextBookmark */;
+			36C16CB615225C6500E3C1A7 /* PBXTextBookmark */ = 36C16CB615225C6500E3C1A7 /* PBXTextBookmark */;
+			36C16CDC15225DD900E3C1A7 /* PBXTextBookmark */ = 36C16CDC15225DD900E3C1A7 /* PBXTextBookmark */;
+			36C16CE515225EAE00E3C1A7 /* PBXTextBookmark */ = 36C16CE515225EAE00E3C1A7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 36C16C53152249E400E3C1A7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	36C16C49152249C400E3C1A7 /* exploreolympic */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = exploreolympic;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	36C16C53152249E400E3C1A7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	36C16C54152249E400E3C1A7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	36C16C711522573100E3C1A7 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {804, 548}}";
+			sepNavSelRange = "{233, 0}";
+			sepNavVisRange = "{0, 233}";
+		};
+	};
+	36C16C721522573100E3C1A7 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1308, 1488}}";
+			sepNavSelRange = "{767, 0}";
+			sepNavVisRange = "{934, 987}";
+		};
+	};
+	36C16C7B1522593400E3C1A7 /* UITabBarControllerRotation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {804, 548}}";
+			sepNavSelRange = "{230, 0}";
+			sepNavVisRange = "{0, 330}";
+		};
+	};
+	36C16C7C1522593400E3C1A7 /* UITabBarControllerRotation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {804, 525}}";
+			sepNavSelRange = "{352, 0}";
+			sepNavVisRange = "{0, 360}";
+		};
+	};
+	36C16C9315225B2500E3C1A7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 36C16C771522580100E3C1A7 /* shouye.png */;
+	};
+	36C16C9415225B2500E3C1A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* exploreolympicAppDelegate.m */;
+		name = "exploreolympicAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 460;
+		rType = 0;
+		vrLen = 1185;
+		vrLoc = 305;
+	};
+	36C16C9615225B2500E3C1A7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* exploreolympic-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/idream/Documents/exploreolympic/exploreolympic-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	36C16C9715225B2500E3C1A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* exploreolympicAppDelegate.h */;
+		name = "exploreolympicAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 462;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 0;
+	};
+	36C16C9815225B2500E3C1A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 36C16C7C1522593400E3C1A7 /* UITabBarControllerRotation.m */;
+		name = "UITabBarControllerRotation.m: 17";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 0;
+	};
+	36C16CAC15225BD000E3C1A7 /* MainViewController.m:25 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 36C16C721522573100E3C1A7 /* MainViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 25;
+		location = exploreolympic;
+		modificationTime = 354573931.90601;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	36C16CB515225C6500E3C1A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 36C16C7B1522593400E3C1A7 /* UITabBarControllerRotation.h */;
+		name = "UITabBarControllerRotation.h: 12";
+		rLen = 0;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 0;
+	};
+	36C16CB615225C6500E3C1A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 36C16C711522573100E3C1A7 /* MainViewController.h */;
+		name = "MainViewController.h: 17";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 233;
+		vrLoc = 0;
+	};
+	36C16CDA15225DD700E3C1A7 /* MainViewController.m:30 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 36C16C721522573100E3C1A7 /* MainViewController.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 30;
+		location = exploreolympic;
+		modificationTime = 354573931.907358;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	36C16CDC15225DD900E3C1A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 36C16C721522573100E3C1A7 /* MainViewController.m */;
+		name = "MainViewController.m: 34";
+		rLen = 0;
+		rLoc = 768;
+		rType = 0;
+		vrLen = 910;
+		vrLoc = 184;
+	};
+	36C16CE515225EAE00E3C1A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 36C16C721522573100E3C1A7 /* MainViewController.m */;
+		name = "MainViewController.m: 32";
+		rLen = 0;
+		rLoc = 767;
+		rType = 0;
+		vrLen = 987;
+		vrLoc = 934;
+	};
+}
